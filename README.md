@@ -1,6 +1,7 @@
 # pandas-활용
 
 - merge_csv
+
 여러 csv file 을 하나의 csv 로 병합합니다.
 
 열에 맞추어 합쳐집니다.
